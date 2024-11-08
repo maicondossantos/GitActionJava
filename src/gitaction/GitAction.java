@@ -15,7 +15,7 @@ public class GitAction {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("Olá, Mundo!");
+        System.out("Olá, Mundo!");
     }
     
 }
